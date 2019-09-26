@@ -29,13 +29,13 @@ sidebar:
 
 
     interests:
-      - item: Climbing
+      - item: Skiing
         link:
 
-      - item: Snowboarding
+      - item: Snorkeling
         link:
 
-      - item: Cooking
+      - item: Hiking/Travel
         link:
 
 career-profile:
@@ -50,9 +50,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Computer Science
+      university: University of Minnesota, Twin Cities
+      time: 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +63,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Msc in Mechanical Engineering
+      university: State University of New York at Buffalo
+      time: 2007 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
