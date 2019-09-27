@@ -164,10 +164,10 @@ skills:
 
     toolset:
       - name: Python & Pytorch
-        level: 98%
+        level: 85%
 
       - name: Matlab
-        level: 98%
+        level: 85%
 
       - name: C++
         level: 45%
