@@ -44,6 +44,8 @@ career-profile:
       I'm a Ph.D. student in the Department of Computer Science and Engineering, 
       University of Minnesota, Twin Cities.  I'm currently working under the supervision of
       Professor Arindam Banerjee. I have broad interests in Machine Learning and Deep Learning.
+      My work includes large scale learning, stochastic gradient algorithms, and Sequence-to-Sequence 
+      model for sub-seaonal forecasting.
 
 education:
     - degree: PhD in Computer Science
@@ -73,22 +75,15 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Research Assistance
+      time: Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        - Build novel Sequence-to-sequence models for sub-seasonal forecasting (forecasting 14-28 days ahead of time) 
+        that better handles the long-term temporal dependencies in climate time series.
+        - Design proper evaluation pipeline to validate model performances on small-scale time series dataset.
+        - Collect and propose a useful benchmark dataset as the ‘Imagenet’ dataset for sub-seasonal forecasting.
+        - Wrote 1000+ lines of python/pytorch-code implementing 5+ baseline models, e.g. LSTM-Autoencoder.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
