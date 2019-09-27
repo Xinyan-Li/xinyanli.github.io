@@ -35,19 +35,15 @@ sidebar:
       - item: Snorkeling
         link:
 
-      - item: Hiking/Travel
+      - item: Hiking/Traveling
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm a Ph.D. student in the Department of Computer Science and Engineering, 
+      University of Minnesota, Twin Cities.  I'm currently working under the supervision of
+      Professor Arindam Banerjee. I have broad interests in Machine Learning and Deep Learning.
 
 education:
     - degree: PhD in Computer Science
