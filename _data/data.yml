@@ -87,31 +87,41 @@ experiences:
         - Collect and propose a useful benchmark dataset as the ‘Imagenet’ dataset for sub-seasonal forecasting.
         - Wrote 1000+ lines of python/pytorch-code implementing 5+ baseline models, e.g. LSTM-Autoencoder.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Assistance
+      time: 2018 - 2019
+      company:  University of Minnesota, Twin Cities
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Empirical study of Stochastic Gradient Descent (SGD): Dynamics. 
+          
+          - Studied the properties of loss surfaces of deep Relu network through the Hessian matrix
+          - Unveiled a novel observation of the overlap between the principal eigen-spaces of the Hessian 
+          and the second moment of the stochastic gradients.
+          - Implemented a python/pytorch toolbox for efficient computation of eigenvalues 
+          and eigenvectors of large-scale matrices with millions of entries.
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Assistance
+      time: 2017 - 2018
+      company: University of Minnesota, Twin Cities
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Deep Neural Network for Land Climate Prediction using Sea Surface Temperatures. 
+        
+        - Designed deep neural network for land climate prediction using a small climate dataset 
+        containing high-resolution (high dimensional) sea surface temperature data.
+        - Applied transfer learning on pre-trained VGG-Net and ResNet to solve the same climate prediction problem.
 
-          - Bullet point
-          - Bullet point
+    - role: Research Assistance
+      time: 2014 - 2017
+      company: University of Minnesota, Twin Cities
+      title: Computer-Aided Cancer Diagnosis in Surgical Pathology
+      link: "#hook"
+
+      details: |
+        
+        - Built deep neural network with special feature descriptor to perform diagnosis 
+        on malignant and benign neoplasms of the endometrium, prostate, breast, ovary and myometrium, 
+        squamous intraepithelial lesions of the lower female genital tract, and histopathologic diagnosis 
+        of non-neoplastic pulmonary diseases, with average prediction accuracy over 90%.
 
 projects:
     title: Projects
