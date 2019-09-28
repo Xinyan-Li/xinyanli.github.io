@@ -156,7 +156,7 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - title: Hessian based analysis of SGD for Deep Nets: Dynamics and Generalization
+      - title: Hessian based analysis of SGD for Deep Nets&colon; Dynamics and Generalization
         authors: Li, Xinyan, Qilong Gu, Yingxue Zhou, Tiancong Chen, and Arindam Banerjee
         conference: arXiv preprint arXiv:1907.10732 (2019)
 
