@@ -79,7 +79,7 @@ experiences:
       time: Present
       company: University of Minnesota, Twin Cities
       details: |
-      Sub-Seasonal Climate Forecasting with Machine Learning. 
+        Sub-Seasonal Climate Forecasting with Machine Learning. 
       
         - Build novel Sequence-to-sequence models for sub-seasonal forecasting (forecasting 14-28 days ahead of time) 
         that better handles the long-term temporal dependencies in climate time series.
