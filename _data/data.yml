@@ -77,7 +77,7 @@ education:
 experiences:
     - role: Research Assistance
       time: Present
-      company: Startup Hubs, San Francisco
+      company: University of Minnesota, Twin Cities
       details: |
         - Build novel Sequence-to-sequence models for sub-seasonal forecasting (forecasting 14-28 days ahead of time) 
         that better handles the long-term temporal dependencies in climate time series.
