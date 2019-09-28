@@ -78,9 +78,8 @@ experiences:
     - role: Research Assistance
       time: Present
       company: University of Minnesota, Twin Cities
-      details: |
-        Sub-Seasonal Climate Forecasting with Machine Learning. 
-      
+      title: Sub-Seasonal Climate Forecasting with Machine Learning
+      details: |     
         - Build novel Sequence-to-sequence models for sub-seasonal forecasting (forecasting 14-28 days ahead of time) 
         that better handles the long-term temporal dependencies in climate time series.
         - Design proper evaluation pipeline to validate model performances on small-scale time series dataset.
@@ -90,9 +89,8 @@ experiences:
     - role: Research Assistance
       time: 2018 - 2019
       company:  University of Minnesota, Twin Cities
-      details: |
-        Empirical study of Stochastic Gradient Descent (SGD): Dynamics. 
-          
+      title:  Empirical study of Stochastic Gradient Descent (SGD): Dynamics
+      details: |         
           - Studied the properties of loss surfaces of deep Relu network through the Hessian matrix
           - Unveiled a novel observation of the overlap between the principal eigen-spaces of the Hessian 
           and the second moment of the stochastic gradients.
@@ -103,9 +101,8 @@ experiences:
     - role: Research Assistance
       time: 2017 - 2018
       company: University of Minnesota, Twin Cities
+      title: Deep Neural Network for Land Climate Prediction using Sea Surface Temperatures
       details: |
-        Deep Neural Network for Land Climate Prediction using Sea Surface Temperatures. 
-        
         - Designed deep neural network for land climate prediction using a small climate dataset 
         containing high-resolution (high dimensional) sea surface temperature data.
         - Applied transfer learning on pre-trained VGG-Net and ResNet to solve the same climate prediction problem.
