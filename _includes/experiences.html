@@ -20,6 +20,14 @@
       </div><!--//upper-row-->
 
       <div class="company">{{ experience.company }}</div>
+      
+      <span class="project-title">
+        {% if project.link %}
+        <a href="{{ project.link }}" target="_blank">{{ experience.title }}</a>
+        {% else %}
+        {{ experience.title }}
+        {% endif %}
+      </span>
 
     </div><!--//meta-->
 
