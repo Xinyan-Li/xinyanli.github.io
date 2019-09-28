@@ -78,7 +78,9 @@ experiences:
     - role: Research Assistance
       time: Present
       company: University of Minnesota, Twin Cities
-      details: Sub-Seasonal Climate Forecasting with Machine Learning 
+      details: |
+      Sub-Seasonal Climate Forecasting with Machine Learning. 
+      
         - Build novel Sequence-to-sequence models for sub-seasonal forecasting (forecasting 14-28 days ahead of time) 
         that better handles the long-term temporal dependencies in climate time series.
         - Design proper evaluation pipeline to validate model performances on small-scale time series dataset.
