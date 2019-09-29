@@ -171,9 +171,12 @@ skills:
     toolset:
       - name: Python & Pytorch
         level: 85%
-
+      
       - name: Matlab
         level: 85%
+      
+      - name: Keras & Tensorflow
+        level: 60%
 
       - name: C++
         level: 45%
