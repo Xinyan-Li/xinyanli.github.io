@@ -90,7 +90,7 @@ experiences:
       time: 2018 - 2019
       company:  University of Minnesota, Twin Cities
       title:  Empirical study of Stochastic Gradient Descent (SGD)&colon; Dynamics
-      link: "../_docs/sgd_dynamics.md/"
+      link: "/xinyanli.github.io/_docs/sgd_dynamics.md/"
       details: |         
           - Studied the properties of loss surfaces of deep Relu network through the Hessian matrix
           - Unveiled a novel observation of the overlap between the principal eigen-spaces of the Hessian 
