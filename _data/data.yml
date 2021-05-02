@@ -80,10 +80,8 @@ experiences:
       company: University of Minnesota, Twin Cities
       title: Noisy Truncated SGD: Optimization and Generalization
       details: |     
-        - Propose noisy truncated SGD (NT-SGD) which aims to reduce the communication cost in distributed setting 
-        and takes the advantage of both the fast-decaying structure of stochastic gradient components and the power of additional Gaussian noise.
-        - Design and perform extensive empirical study to demonstrate that NT-SGD matches 
-        the speed and accuracy of vanilla SGD, and can successfully escape sharp minima.
+        - Propose noisy truncated SGD (NT-SGD) which aims to reduce the communication cost in distributed setting and takes the advantage of both the fast-decaying structure of stochastic gradient components and the power of additional Gaussian noise.
+        - Design and perform extensive empirical study to demonstrate that NT-SGD matches the speed and accuracy of vanilla SGD, and can successfully escape sharp minima.
 
 
     - role: Research Assistance
