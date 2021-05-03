@@ -172,22 +172,34 @@ experiences:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: PREPRINTS 
+    title: publications
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - title: Hessian based analysis of SGD for Deep Nets&colon; Dynamics and Generalization
-        authors: Li, Xinyan, Qilong Gu, Yingxue Zhou, Tiancong Chen, and Arindam Banerjee
-        conference: arXiv preprint arXiv:1907.10732 (2019)
+      - title: Experiments with Rich Regime Training for Deep Learning
+        authors: Yingxue Zhou*, Xinyan Li*, Arindam Banerjee (*equal contribution)
+        conference: arXiv preprint arXiv:2103.00075, 2021.
+
+      - title: Noisy Truncated SGD: Optimization and Generalization
+        authors: Xinyan Li and Arindam Banerjee 
+        conference: arXiv preprint arXiv:2102.13522, 2021.
+
+       - title: Sub-Seasonal Climate Forecasting via Machine Learning: Challenges, Analysis, and Advances
+        authors: Sijie He*, Xinyan Li*, Timothy DelSole, Pradeep Ravikumar, and Arindam Banerjee (*equal contribution)
+        conference: The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.
+       
+       - title: Hessian based analysis of SGD for Deep Nets&colon; Dynamics and Generalization
+        authors: Xinyan Li*, Qilong Gu*,Yingxue Zhou*, Tiancong Chen, Arindam Banerjee  (*equal contribution)
+        conference: SIAM International Conference on Data Mining (SDM), 2020.
 
       - title: Interpretable Predictive Modeling for Climate Variables with Weighted Lasso
         authors: He, Sijie, Xinyan Li, Vidyashankar Sivakumar, and Arindam Banerjee
-        conference: the Thirty-Third AAAI Conference on Artificial Intelligence (2019)
+        conference: The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019.
      
-     title: CONFERENCE PAPERS
+
 
 
 skills:
