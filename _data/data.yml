@@ -172,7 +172,7 @@ experiences:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: PREPRINTS 
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -186,6 +186,8 @@ publications:
       - title: Interpretable Predictive Modeling for Climate Variables with Weighted Lasso
         authors: He, Sijie, Xinyan Li, Vidyashankar Sivakumar, and Arindam Banerjee
         conference: the Thirty-Third AAAI Conference on Artificial Intelligence (2019)
+     
+     title: CONFERENCE PAPERS
 
 
 skills:
