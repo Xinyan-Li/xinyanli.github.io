@@ -78,7 +78,7 @@ experiences:
     - role: Research Assistance
       time: Summer 2020 - Present
       company: University of Minnesota, Twin Cities
-      title: Noisy Truncated SGD: Optimization and Generalization
+      title: Noisy Truncated SGD&colon; Optimization and Generalization
       details: |     
         - Propose noisy truncated SGD (NT-SGD) which aims to reduce the communication cost in 
         distributed setting and takes the advantage of both the fast-decaying structure of 
