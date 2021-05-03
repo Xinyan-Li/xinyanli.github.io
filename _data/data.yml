@@ -76,6 +76,16 @@ education:
 
 experiences:
     - role: Research Assistance
+      time: Fall 2020 - Present
+      company: University of Minnesota, Twin Cities
+      title: Layer-Wise Sparse SGD (LWS-SGD)
+      details: |     
+        - Study the role of active parameters of Deep Neural Networks (DNNs) through the concept of re-initializing
+        - Discover the layer-wise distribution of the active parameters.
+        - Propose Layer-Wise Sparse (LWS) SGD, which only updates some subsets of a DNN’s layers during training.
+        - Demonstrate that LWS-SGD can match the generalization performance of vanilla SGD and the back propagation time can be 2-5 times more efficient.
+
+    - role: Research Assistance
       time: Summer 2020 - Present
       company: University of Minnesota, Twin Cities
       title: Noisy Truncated SGD&colon; Optimization and Generalization
