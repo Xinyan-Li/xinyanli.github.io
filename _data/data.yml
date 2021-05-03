@@ -179,11 +179,11 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-      - title: Experiments with Rich Regime Training for Deep Learning
+       - title: Experiments with Rich Regime Training for Deep Learning
         authors: Yingxue Zhou*, Xinyan Li*, Arindam Banerjee (*equal contribution)
         conference: arXiv preprint arXiv:2103.00075, 2021.
 
-      - title: Noisy Truncated SGD&colon; Optimization and Generalization
+       - title: Noisy Truncated SGD&colon; Optimization and Generalization
         authors: Xinyan Li and Arindam Banerjee 
         conference: arXiv preprint arXiv:2102.13522, 2021.
 
@@ -195,7 +195,7 @@ publications:
         authors: Xinyan Li*, Qilong Gu*,Yingxue Zhou*, Tiancong Chen, Arindam Banerjee  (*equal contribution)
         conference: SIAM International Conference on Data Mining (SDM), 2020.
 
-      - title: Interpretable Predictive Modeling for Climate Variables with Weighted Lasso
+       - title: Interpretable Predictive Modeling for Climate Variables with Weighted Lasso
         authors: He, Sijie, Xinyan Li, Vidyashankar Sivakumar, and Arindam Banerjee
         conference: The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019.
      
