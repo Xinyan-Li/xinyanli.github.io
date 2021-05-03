@@ -179,7 +179,7 @@ publications:
 #      bibendum fringilla a eu lectus.
 
     papers:
-       - title: Experiments with Rich Regime Training for Deep Learning
+        - title: Experiments with Rich Regime Training for Deep Learning
         authors: Yingxue Zhou*, Xinyan Li*, Arindam Banerjee (*equal contribution)
         conference: arXiv preprint arXiv:2103.00075, 2021.
 
